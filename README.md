@@ -39,7 +39,8 @@
 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
 ```
 
-Перед отправкой необходимо получить текущий регистрационный токен - https://firebase.google.com/docs/cloud-messaging/android/first-message?authuser=0&_gl=1*iesgeg*_ga*MTE1NDgwNjM5My4xNzQ4NTU2OTc3*_ga_CW55HF8NVT*czE3NDg1NjEwMjYkbzIkZzEkdDE3NDg1NjI0MjUkajYwJGwwJGgw&hl=ru#retrieve-the-current-registration-token
+Получение регистрационного токена
+Перед отправкой уведомлений необходимо получить текущий регистрационный токен. Подробности можно найти здесь.
 
 📬 Отправка уведомлений через Firebase Console
 1. Перейдите в ваш проект на Firebase Console.
