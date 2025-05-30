@@ -1,6 +1,6 @@
-FirebaseCloudMessageApp
+# FirebaseCloudMessageApp
 
-Простое приложение для отправки и получения уведомлений с использованием Firebase Cloud Messaging (облачного решения от Google) с соблюдением принципа, описанного в данном руководстве - https://apptractor.ru/info/articles/bolshinstvo-prilozheniy-dlya-android-narushayut-eto-pravilo-chistogo-koda.html
+**FirebaseCloudMessageApp** — простое приложение для отправки и получения уведомлений с использованием Firebase Cloud Messaging (облачного решения от Google). Приложение построено с соблюдением принципов чистого кода, описанных в [данном руководстве](https://apptractor.ru/info/articles/bolshinstvo-prilozheniy-dlya-android-narushayut-eto-pravilo-chistogo-koda.html).
 
 ## Технологии
 
