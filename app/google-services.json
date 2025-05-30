@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095052445415",
+    "project_id": "fiber123",
+    "storage_bucket": "fiber123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095052445415:android:70ba1b8483365dfba18442",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasOZ0kIiDpE2J5pvvO01hwmneCauvL-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
